@@ -1,4 +1,4 @@
-# Machine Learning Specialization C oursera - Andrew Ng
+# Machine Learning Specialization Coursera - Andrew Ng
 
 [The Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications. 
 
